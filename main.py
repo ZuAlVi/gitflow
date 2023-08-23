@@ -1,3 +1,3 @@
 import reverse_text
 
-revese_text("asASAsAS")
+reverse_text("asASAsAS")
